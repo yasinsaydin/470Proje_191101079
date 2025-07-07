@@ -1,0 +1,19 @@
+# Jupyter notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor dosyaları
+.vscode/
+.idea/
+.DS_Store
+
+# Sanal ortam/venv dosyaları
+env/
+venv/
+.venv/
+spam_env/
